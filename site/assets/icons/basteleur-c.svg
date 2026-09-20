@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Basteleur letter C icon</title>
+  <desc id="desc">An SVG icon showing the capital letter C rendered with the Basteleur font.</desc>
+  <defs>
+    <style>
+      @font-face {
+        font-family: "Basteleur Icon";
+        src: url("../fonts/Basteleur-Bold.woff2") format("woff2");
+      }
+
+      .glyph {
+        font-family: "Basteleur Icon", serif;
+        font-size: 360px;
+        fill: #ffd1df;
+        dominant-baseline: middle;
+        text-anchor: middle;
+      }
+    </style>
+  </defs>
+  <rect x="24" y="24" width="464" height="464" rx="96" fill="#001b2e"/>
+  <text class="glyph" x="256" y="282">C</text>
+</svg>

@@ -1,0 +1,19 @@
+{
+  "brandName": "THE Y/N WEDDING",
+  "eventDate": "September 20, 2026",
+  "location": "Someplace, MI",
+  "guestGreeting": "What should we\nplay next?",
+  "guestAccessGreeting": "Let’s make a\nplaylist together.",
+  "hostGreeting": "Keep the floor\nmoving.",
+  "hostAccessGreeting": "Welcome\nback.",
+  "colors": {
+    "ink": "#9A0913",
+    "olive": "#95C79D",
+    "cream": "#fff7f7",
+    "paper": "#fffefe",
+    "sage": "#e4f2e6",
+    "line": "#edcbd0",
+    "coral": "#FFB0B8",
+    "muted": "#7c5559"
+  }
+}

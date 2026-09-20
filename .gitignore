@@ -1,0 +1,23 @@
+# Dependencies
+node_modules/
+site/node_modules/
+
+# Environment and local configuration
+.env
+.env.*
+!.env.example
+site/.env
+site/.env.*
+!site/.env.example
+site/config.json
+
+# Logs and coverage
+*.log
+coverage/
+.nyc_output/
+
+# OS and editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
