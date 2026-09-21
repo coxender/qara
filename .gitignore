@@ -8,8 +8,8 @@ site/node_modules/
 !.env.example
 site/.env
 site/.env.*
-!site/.env.example
-site/config.json
+!.env.example
+config.json
 
 # Logs and coverage
 *.log
@@ -21,3 +21,5 @@ coverage/
 Thumbs.db
 .vscode/
 .idea/
+
+NOTESFORME.txt
